@@ -1,0 +1,31 @@
+{
+  "name": "react-native-google-admob",
+  "version": "0.0.1",
+  "description": "React Native Admob plugin to monetize apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appfeel/react-native-google-admob.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "admob",
+    "react-native",
+    "ads",
+    "banner",
+    "advertising",
+    "interstitial",
+    "monetization",
+    "plugin"
+  ],
+  "author": "AppFeel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appfeel/react-native-google-admob/issues"
+  },
+  "homepage": "https://github.com/appfeel/react-native-google-admob#readme"
+}
